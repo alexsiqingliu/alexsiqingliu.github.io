@@ -34,9 +34,6 @@
       }
     }
   }
-  p {
-   font-family: map-get($base, font-family-serif);
-  }
   h1,
   h2 {
     @include split-line(bottom);

@@ -36,7 +36,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type      : # "person" (default), "organization"
   name      : Alex Liu 
-  url       :
+  url       : 
   avatar    : # path or url of avatar image (square)
   bio       : 
   email     : alexsiqingliu@gmail.com
@@ -51,6 +51,7 @@ author:
   linkedin  : alex-siqing-liu-9967098a # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : alexsiqingliu # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
+  instagram : hobbesliu
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
