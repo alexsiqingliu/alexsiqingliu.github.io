@@ -34,11 +34,9 @@
       }
     }
   }
-  \\me in desperation after it didn't work in github pages
   p {
-    font-family: map-get($base, font-family-serif);
+   font-family: map-get($base, font-family-serif);
   }
-
   h1,
   h2 {
     @include split-line(bottom);
