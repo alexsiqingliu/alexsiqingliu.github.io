@@ -1,6 +1,6 @@
 ---
-title: Reflections on my Final Year at Amherst
-tags: life, education, school
+title: Reflection on Final Year at Amherst
+tags: life education school
 ---
 
 I was submerged in a spa this winter break, soaking in indulgence, when a curious observation emerged through the clouds of steam. The voice in my head, the admonishing super-ego was silent. The unrelentingly critical voice telling me that I should be working harder, that I haven’t achieved enough, that my time is limited, that I’ve amounted to nothing important so far.
